@@ -3,9 +3,9 @@ title: Overzicht van Adobe Experience Manager as a Cloud Service-release
 description: Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
-source-git-commit: ece8359e8100eca2508bc9e58e17416756d23349
+source-git-commit: 4076daa66fe9653c3d29de2ef3cf187664eae962
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,28 @@ ht-degree: 0%
 Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager as a Cloud Service. Dit zijn korte, ongeveer 10 minuten durende video&#39;s die door het AEM productteam worden geleverd en die de hooglichten van de nieuwste release delen.
 
 ## Laatste update
+
+<table style="max-width: 50%;">
+<tr>
+  <td>
+    <a href="./2022/2022-4-0.md">
+      <img alt="2022.4.0 Release" src="./2022/assets/2022-4-0.png" />
+    </a>
+    <div>
+      <a href="./2022/2022-4-0.md">
+        <strong>Geen | 2022,4,0</strong>
+        <br/>
+      </a>
+        <em>Uitgegeven op 5 mei 2022 </em>
+    </div>
+    <p>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Opmerkingen bij de release</a>
+    <p>
+  </td>
+</tr>  
+</table>
+
+## Oudere updates
 
 <table style="max-width: 50%;">
 <tr>
@@ -33,12 +55,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Opmerkingen bij de release</a>
     <p>
   </td>
-</tr>  
-</table>
-
-## Oudere updates
-
-<table style="max-width: 50%;">
+</tr> 
 <tr>
   <td>
     <a href="./2022/2022-1-0.md">
