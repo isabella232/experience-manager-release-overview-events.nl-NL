@@ -3,9 +3,9 @@ title: Overzicht van Adobe Experience Manager as a Cloud Service-release
 description: Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
-source-git-commit: 78db7decd3b6283f8a20766e7f8aa4a19adc8a26
+source-git-commit: 6393e1b8d82edca9bf2cbbfeebdd8ac821577a45
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
 <table style="max-width: 50%;">
   <tr>
     <td>
-      <a href="./2022/2022-6-0.md">
-        <img alt="2022.4.0 Release" src="./2022/assets/2022-6-0-thumb.png" />
+      <a href="./2022/2022-7-0.md">
+        <img alt="2022.7.0 Release" src="./2022/assets/2022-7-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-6-0.md">
-          <strong>Geen | 2022,6,0</strong>
+        <a href="./2022/2022-7-0.md">
+          <strong>Geen | 2022,7,0</strong>
           <br/>
         </a>
-          <em>Releasedatum 30 juni 2022 </em>
+          <em>Releasedatum 8 aug. 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Opmerkingen bij de release</a>
@@ -41,9 +41,24 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
 
 <table style="max-width: 50%;">
   <tr>
+      <td>
+      <a href="./2022/2022-6-0.md">
+        <img alt="2022.6.0 Release" src="./2022/assets/2022-6-0-thumb.png" />
+      </a>
+      <div>
+        <a href="./2022/2022-6-0.md">
+          <strong>Geen | 2022,6,0</strong>
+          <br/>
+        </a>
+          <em>Releasedatum 30 juni 2022 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Opmerkingen bij de release</a>
+      <p>
+    </td>
     <td>
       <a href="./2022/2022-5-0.md">
-        <img alt="2022.4.0 Release" src="./2022/assets/2022-5-0-thumb.png" />
+        <img alt="2022.5.0 Release" src="./2022/assets/2022-5-0-thumb.png" />
       </a>
       <div>
         <a href="./2022/2022-5-0.md">
@@ -71,6 +86,8 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Opmerkingen bij de release</a>
       <p>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="./2022/2022-3-0.md">
         <img alt="2022.3.0 Release" src="./2022/assets/2022-3-0.png" />
@@ -86,8 +103,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Opmerkingen bij de release</a>
       <p>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="./2022/2022-1-0.md">
         <img alt="2022-1-0 Release" src="./2022/assets/2022-1-0.png" />
